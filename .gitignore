@@ -1,0 +1,25 @@
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+
+# env — never commit secrets
+.env
+.env.local
+.env.*.local
+
+# platform
+.vercel
+
+# misc
+.DS_Store
+npm-debug.log*
+.legacy-backup/
+
+.vercel
+.env*
+!.env.example
