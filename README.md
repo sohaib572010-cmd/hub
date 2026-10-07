@@ -8,6 +8,9 @@ or root domains.
 Stack: **Next.js 16** (App Router, React 19) · **Supabase** (Postgres + Auth) ·
 **Cloudinary** (images and video) · Tailwind CSS 4.
 
+Full specification: [`PRD.md`](./PRD.md). Rules for changing the code:
+[`GUIDELINES.md`](./GUIDELINES.md).
+
 ---
 
 ## Quick start (local)
